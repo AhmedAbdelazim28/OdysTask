@@ -1,0 +1,11 @@
+C:\WorkStation\Odyssey.Application\bin\Debug\net7.0\Odyssey.Application.deps.json
+C:\WorkStation\Odyssey.Application\bin\Debug\net7.0\Odyssey.Application.dll
+C:\WorkStation\Odyssey.Application\bin\Debug\net7.0\Odyssey.Application.pdb
+C:\WorkStation\Odyssey.Application\obj\Debug\net7.0\Odyssey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkStation\Odyssey.Application\obj\Debug\net7.0\Odyssey.Application.AssemblyInfoInputs.cache
+C:\WorkStation\Odyssey.Application\obj\Debug\net7.0\Odyssey.Application.AssemblyInfo.cs
+C:\WorkStation\Odyssey.Application\obj\Debug\net7.0\Odyssey.Application.csproj.CoreCompileInputs.cache
+C:\WorkStation\Odyssey.Application\obj\Debug\net7.0\Odyssey.Application.dll
+C:\WorkStation\Odyssey.Application\obj\Debug\net7.0\refint\Odyssey.Application.dll
+C:\WorkStation\Odyssey.Application\obj\Debug\net7.0\Odyssey.Application.pdb
+C:\WorkStation\Odyssey.Application\obj\Debug\net7.0\ref\Odyssey.Application.dll
